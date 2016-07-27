@@ -1,0 +1,2 @@
+part 2 of bash https://habrahabr.ru/post/52871/
+ansible module manage container - docker https://docs.ansible.com/ansible/docker_module.html
